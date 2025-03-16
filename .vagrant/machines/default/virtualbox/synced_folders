@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Cesarhernandez/Desktop/Chande Clases/Electiva 2/VagrantApache/web","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Cesarhernandez/Desktop/Chande Clases/Electiva 2/VagrantApache","disabled":false,"__vagrantfile":true}}}
